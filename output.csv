@@ -1,0 +1,23 @@
+wav_filename,wav_filesize,transcript
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_1.wav,157612,show exposure for gilt linker
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_2.wav,285414,select collateral type usmuni and uscorp but not inrcash
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_3.wav,282442,select collateral type usmuni and uscorp and has posted inrcash
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_4.wav,347830,select collateral type uscorp but not inrcash and has posted usmuni
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_5.wav,154640,legal entity cgmi
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_6.wav,124918,legal entity cgml
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_7.wav,118974,legal entity cbna
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_8.wav,187334,legal entity cgmi cgml
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_9.wav,217056,legal entity cgmi cgml cbna
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_10.wav,347830,select collateral type usmuni and uscorp but not inrcash and legal entity cgmi cgml and has posted locused
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_11.wav,341886,select collateral type usmuni uscorp locused usequity usstips and inrcash and dormant executed and terminated
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_12.wav,249748,select dormant inactivated evergreen and cgmi cgml
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_13.wav,187334,has posted uscorp usmuni but not inrcash
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_14.wav,151668,has posted uscorp but not usmuni
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_15.wav,252722,uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_16.wav,344858,select uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_17.wav,157612,select cgmi cgml cbna
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_18.wav,347830,collateral type uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_19.wav,315136,has posted uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips 
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_20.wav,184362,has posted cgmi cgml cbna 
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_21.wav,350802,but not uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips
+/home/gopalvpatil/gopal_speech/DeepSpeech/audio/output_22.wav,154640,but not cgmi cgml cbna

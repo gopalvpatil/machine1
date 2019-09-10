@@ -1,0 +1,22 @@
+show exposure for gilt linker
+select collateral type usmuni and uscorp but not inrcash
+select collateral type usmuni and uscorp and has posted inrcash
+select collateral type uscorp but not inrcash and has posted usmuni
+legal entity cgmi
+legal entity cgml
+legal entity cbna
+legal entity cgmi cgml
+legal entity cgmi cgml cbna
+select collateral type usmuni and uscorp but not inrcash and legal entity cgmi,cgml and has posted locused
+select collateral type usmuni uscorp locused usequity usstips and inrcash and dormant executed and terminated
+select dormant inactivated evergreen and cgmi cgml
+has posted uscorp usmuni but not inrcash
+has posted uscorp but not usmuni
+uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips
+select uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips
+select cgmi cgml cbna
+collateral type uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips
+has posted uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips 
+has posted cgmi cgml cbna 
+but not uscorp usmuni gbpcash inrcash usequity locusd ustips usstrips
+but not cgmi cgml cbna
